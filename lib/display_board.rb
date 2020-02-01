@@ -1,9 +1,9 @@
-def display_board ()
+def display_board
   puts"   |   |   "
-  puts"           "
+  puts"___________"
   puts"   |   |   "
-  puts"           "
+  puts"___________"
   puts"   |   |   "
 end
 
-print_
+print display_board
